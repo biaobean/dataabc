@@ -6,8 +6,7 @@
   * [数据工程](neng-li-ling-yu-ji-fa-zhan-qu-shi/shu-ju-gong-cheng.md)
   * [数据管理](neng-li-ling-yu-ji-fa-zhan-qu-shi/shu-ju-guan-li.md)
   * [数据分析](neng-li-ling-yu-ji-fa-zhan-qu-shi/shu-ju-fen-xi.md)
-* [大数据](untitled.md)
+* [大数据](big-data.md)
 * [数据治理](shu-ju-zhi-li.md)
-* [数据战略](shu-ju-zhan-lve.md)
-* [数据湖](shu-ju-hu.md)
+* [数据战略](data-strategy.md)
 

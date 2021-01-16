@@ -7,6 +7,6 @@
   * [数据管理](neng-li-ling-yu-ji-fa-zhan-qu-shi/shu-ju-guan-li.md)
   * [数据分析](neng-li-ling-yu-ji-fa-zhan-qu-shi/shu-ju-fen-xi.md)
 * [大数据](big-data.md)
-* [数据治理](shu-ju-zhi-li.md)
+* [数据治理](data-governmence.md)
 * [数据战略](data-strategy.md)
 

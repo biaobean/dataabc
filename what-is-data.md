@@ -20,10 +20,22 @@
 # 数据与AI
 
 
+数据是构建AI系统的关键基础设施。**数据在很大程度上决定了AI系统的性能、公平性、稳健型、安全性和可扩展性。**
+对于数据工作的低估具有普遍性。
+
+https://mp.weixin.qq.com/s/BF9HUiYq3m1uvC7IGxIRAQ
+
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf
+
 Lets you and I work to shift AI from Model-Centric toward Data-Centric AI development, which will help many teams.
 
 https://www.youtube.com/watch?v=06-AZXmwHjo
 
+以模型为中心向以数据为中心转变
+https://mp.weixin.qq.com/s/-ITw9CqcqxkbsKneIl_gKw
+
+
+二八定律：80%的数据+20%的模型=更好的机器学习
 
 AI = Data + Code
  

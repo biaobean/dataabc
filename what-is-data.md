@@ -17,5 +17,18 @@
 
 \[^1\]：a a  
 
+# 数据与AI
 
 
+Lets you and I work to shift AI from Model-Centric toward Data-Centric AI development, which will help many teams.
+
+https://www.youtube.com/watch?v=06-AZXmwHjo
+
+
+AI = Data + Code
+ 
+他表示，「如果我们80％的工作是数据准备，那么确保数据质量是机器学习团队的重要工作。」
+ 
+机器学习的进步是模型带来的还是数据带来的，这可能是一个世纪辩题。
+ 
+吴恩达对此的想法是，一个机器学习团队80%的工作应该放在数据准备上，确保数据质量是最重要的工作，每个人都知道应该如此做，但没人在乎。如果更多地强调以数据为中心而不是以模型为中心，那么机器学习的发展会更快。
